@@ -1,0 +1,33 @@
+data:
+  source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587120877/interactive/intro.mp4
+  options:
+
+    - source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587134088/interactive/s3.mp4
+      text: Amazon S3
+      options:
+        - source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587134322/interactive/s3-soon.mp4
+          text: Archives and Backups
+        - source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587134322/interactive/s3-soon.mp4
+          text: Static web hosting
+        - source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587134322/interactive/s3-soon.mp4
+          text: Shared datasets
+        - source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587134322/interactive/s3-soon.mp4
+          text: Data analysis
+
+    - source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587134775/interactive/lambda.mp4
+      text: AWS Lambda
+      options:
+        - source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587135237/interactive/python.mp4
+          text: Python
+        - source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587135484/interactive/js.mp4
+          text: JavaScript
+        - source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587134974/interactive/cobol.mp4
+          text: COBOL
+
+    - source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587135735/interactive/rekognition.mp4
+      text: Amazon Rekognition
+      options:
+        - source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587135881/interactive/rek-soon.mp4
+          text: Images
+        - source: https://res.cloudinary.com/alexcasalboni/video/upload/v1587135881/interactive/rek-soon.mp4
+          text: Videos
